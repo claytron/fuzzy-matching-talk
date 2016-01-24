@@ -92,27 +92,34 @@ export FZF_DEFAULT_OPTS='--extended --multi --inline-info --prompt="fzf> "'
 
 Find __*Files*__ in Vim
 
-![inline autoplay fit](movies/placeholder.mov)
+![inline autoplay fit](movies/vim_files.mov)
 
-^ Find `.rb` in Augury. Matches ruby files, rubocop, and bundle. Notice the dot.
-
-^ Exclude files with `!.bundle`
+^ 'README' Open it.
+'fo' finds 'fortune.rb'
+'fo.rb' finds 'info.rb'
+Exclude with '!^.bu'
+Open multiple files
+Or statements
 
 ----
 
 Find __*Buffers*__ in Vim
 
-![inline autoplay fit](movies/placeholder.mov)
+![inline autoplay fit](movies/vim_buffers.mov)
 
-^ Note HERE
+^ Now we have open buffers
+Details + fuzzy match
+Filter by 'md'
+Open that file
 
 ----
 
 Find __*Recent Files*__ in Vim
 
-![inline autoplay fit](movies/placeholder.mov)
+![inline autoplay fit](movies/vim_mru.mov)
 
-^ Note HERE
+^ Files from previous sessions
+Quick fuzzy access
 
 ----
 
@@ -124,25 +131,32 @@ Find __*Recent Files*__ in Vim
 
 Find __*Files*__
 
-![inline autoplay fit](movies/placeholder.mov)
+![inline autoplay fit](movies/shell_files.mov)
 
-^ Note HERE
+^ Use 'sed -n'
+Use 'wc -l'
+with ctrl-t
+
 
 ----
 
 Inspect __*Environment*__
 
-![inline autoplay fit](movies/placeholder.mov)
+![inline autoplay fit](movies/shell_env.mov)
 
-^ Note HERE
+^ Use ctrl+r
+Find the env command
+Search for FZF
 
 ----
 
 Git Stash __*Helper*__
 
-![inline autoplay fit](movies/placeholder.mov)
+![inline autoplay fit](movies/shell_stache.mov)
 
-^ Note HERE
+^ Default git stash list
+Show different stashes
+Apply one
 
 ----
 
