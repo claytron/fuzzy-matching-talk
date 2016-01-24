@@ -1,3 +1,5 @@
+autoscale: true
+
 ## [fit] __*Fuzzy*__ Feelings for
 ## [fit] Fuzzy __*Matching*__
 
