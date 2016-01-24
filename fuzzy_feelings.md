@@ -196,6 +196,8 @@ Apply one
 - [My FZF Config][fzf_config]
 - [My .dotfiles][dotfiles]
 
+![right][links]
+
 ----
 
 ### Image Credits
@@ -205,8 +207,12 @@ Apply one
 - [Use Cases (fudj @ flickr)][vim_credit]
 - [Outside Vim (claytron @ flickr)][outside_credit]
 - [fin (philon @ flickr)][finish_credit]
+- [Links (volvob12b @ flickr)][links_credit]
+- [Image Credits (drp @ flickr)][images_credit]
 
 Made possible by Creative Commons ![][cc]
+
+![left][images]
 
 [//]: # ( ---- )
 [//]: # ( Links to items mentioned in the presentation )
@@ -230,4 +236,8 @@ Made possible by Creative Commons ![][cc]
 [outside_credit]: https://flic.kr/p/81u5Yw
 [finish]: https://c1.staticflickr.com/3/2267/2477878611_c7943ef03f_o.jpg
 [finish_credit]: https://flic.kr/p/4LXLZ2
+[links]: https://c1.staticflickr.com/3/2847/9769053784_d13b1715a8_h.jpg
+[links_credit]: https://flic.kr/p/fTfXkN
+[images]: https://c1.staticflickr.com/1/3/4886562_032e05c51a_o.jpg
+[images_credit]: https://flic.kr/p/r3B5
 [cc]: http://mirrors.creativecommons.org/presskit/icons/cc.large.png
