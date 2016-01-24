@@ -55,7 +55,7 @@
 
 ----
 
-# [fit] Install is easy[^1]
+# Install is easy[^1]
 
 ```sh
 $ git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
