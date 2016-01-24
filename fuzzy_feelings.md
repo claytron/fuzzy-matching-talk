@@ -195,7 +195,7 @@ Apply one
 - [My FZF Config][fzf_config]
 - [My .dotfiles][dotfiles]
 
-![right][links]
+![right filtered][links]
 
 ----
 
@@ -211,7 +211,7 @@ Apply one
 
 Made possible by [Creative Commons ![][cc_logo]][cc]
 
-![left][images]
+![left filtered][images]
 
 [//]: # ( ------------------------------------------------------------ )
 [//]: # ( Links to items mentioned in the presentation )
