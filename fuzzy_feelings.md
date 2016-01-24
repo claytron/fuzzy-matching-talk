@@ -209,7 +209,7 @@ Apply one
 - [Links (volvob12b @ flickr)][links_credit]
 - [Image Credits (drp @ flickr)][images_credit]
 
-Made possible by Creative Commons ![][cc]
+Made possible by [Creative Commons ![][cc_logo]][cc]
 
 ![left][images]
 
@@ -240,5 +240,6 @@ Made possible by Creative Commons ![][cc]
 [links_credit]: https://flic.kr/p/fTfXkN
 [images]: https://c1.staticflickr.com/1/3/4886562_032e05c51a_o.jpg
 [images_credit]: https://flic.kr/p/r3B5
-[cc]: http://mirrors.creativecommons.org/presskit/icons/cc.large.png
+[cc_logo]: http://mirrors.creativecommons.org/presskit/icons/cc.large.png
+[cc]: https://creativecommons.org
 [//]: # ( ------------------------------------------------------------ )
