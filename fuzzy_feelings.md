@@ -174,7 +174,7 @@ Search for FZF
 
 ----
 
-Git Stash __*Helper*__
+__*Git Stash*__ Helper
 
 ![inline autoplay fit](movies/shell_stache.mov)
 
