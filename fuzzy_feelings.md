@@ -5,7 +5,7 @@ autoscale: true
 
 <br>
 
-### claytron | _VimIndy_ | 02.2015
+### [@claytron][] | _VimIndy_ | 02.2015
 
 ----
 
@@ -196,6 +196,7 @@ Apply one
 - [Custom MRU Setup in Vim][mru_vim]
 - [My FZF Config][fzf_config]
 - [My .dotfiles][dotfiles]
+- [VimIndy][]
 
 ![right filtered][links]
 
@@ -223,6 +224,8 @@ Made possible by [Creative Commons ![][cc_logo]][cc]
 [mru_vim]: https://gist.github.com/claytron/6d3fd25104729f04cbc8
 [fzf_config]: https://gist.github.com/claytron/d057345985ef29bd40d6
 [dotfiles]: https://github.com/claytron/dotfiles
+[@claytron]: https://twitter.com/claytron
+[vimindy]: http://www.meetup.com/vimindy/
 
 [//]: # ( ---- )
 [//]: # ( Links to images and their creditors )
