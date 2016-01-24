@@ -143,9 +143,8 @@ Find __*Files*__
 
 ![][outside]
 
-^ Use 'sed -n'
-Use 'wc -l'
-with ctrl-t
+^ Use 'sed -n' with ctrl-t
+Use 'wc -l' with 'lib' path and '`**`'
 
 ----
 
