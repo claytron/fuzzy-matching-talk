@@ -1,0 +1,207 @@
+## [fit] __*Fuzzy*__ Feelings for
+## [fit] Fuzzy __*Matching*__
+
+<br>
+
+### claytron | _VimIndy_ | 02.2015
+
+----
+
+# [fit] You __*Love*__ It Already.
+
+![inline](images/textmate.png)
+
+----
+
+# [fit] You __*Love*__ It Already.
+
+![inline](images/qs.png)
+
+----
+
+# [fit] You __*Love*__ It Already.
+
+![inline](images/sublime.png)
+
+----
+
+# [fit] In __*Vim*__, You Tried...
+- __Fuzzy Finder__
+- __Command-T__
+- __CtrlP__
+
+
+![][fail]
+
+^ Fuzzy Finder was cool,
+  complex.
+  and slow with many files...
+
+^ Command-T required ruby and a make file or something.
+  Inspired by TextMate.
+
+^ CtrlP inspired by Sublime Text.
+  Pure vim. Pure slow.
+
+----
+
+# [fit] Now What?
+
+![][future]
+
+----
+
+# [fit] [FZF!][fzf]
+
+----
+
+# [fit] Install is easy[^1]
+
+```sh
+$ git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
+$ ~/.fzf/install
+```
+
+[^1]: As long as you are on a supported platform. Otherwise, you need to create a binary.
+
+----
+
+# My Settings
+
+```sh
+# My defaults for FZF (mostly changed to see hidden files)
+export FZF_DEFAULT_COMMAND='find -L . -type f -o -type d -o -type l | sed 1d | cut -b3- | grep -v -e .git/ -e .svn/ -e .hg/'
+export FZF_CTRL_T_COMMAND=$FZF_DEFAULT_COMMAND
+
+# Enhance the default experience
+export FZF_DEFAULT_OPTS='--extended --multi --inline-info --prompt="fzf> "'
+```
+
+^ I've been using it for a while.
+  Customized it to my needs.
+
+----
+
+# Use Cases
+
+![][vim]
+
+^ Let's look at how it can be used in Vim.
+
+----
+
+Find __*Files*__ in Vim
+
+![inline autoplay fit](movies/placeholder.mov)
+
+^ Find `.rb` in Augury. Matches ruby files, rubocop, and bundle. Notice the dot.
+
+^ Exclude files with `!.bundle`
+
+----
+
+Find __*Buffers*__ in Vim
+
+![inline autoplay fit](movies/placeholder.mov)
+
+^ Note HERE
+
+----
+
+Find __*Recent Files*__ in Vim
+
+![inline autoplay fit](movies/placeholder.mov)
+
+^ Note HERE
+
+----
+
+# Outside Vim
+
+![][outside]
+
+----
+
+Find __*Files*__
+
+![inline autoplay fit](movies/placeholder.mov)
+
+^ Note HERE
+
+----
+
+Inspect __*Environment*__
+
+![inline autoplay fit](movies/placeholder.mov)
+
+^ Note HERE
+
+----
+
+Git Stash __*Helper*__
+
+![inline autoplay fit](movies/placeholder.mov)
+
+^ Note HERE
+
+----
+
+### [fit] junegunn on GitHub
+
+![](https://avatars0.githubusercontent.com/u/700826)
+
+^ Prolific and clean code
+
+^ You will see this face pop up on the slack channel for sure :)
+
+----
+
+# [fit] FIN
+
+![][finish]
+
+----
+
+### Links
+
+- [FZF][fzf]
+- [fzf.vim][fzf.vim]
+- [Custom MRU Setup in Vim][mru_vim]
+- [My FZF Config][fzf_config]
+- [My .dotfiles][dotfiles]
+
+----
+
+### Image Credits
+
+- [In Vim, You Tried (blondinrikard @ flickr)][fail_credit]
+- [Now What? (llnataliell @ flickr)][future_credit]
+- [Use Cases (fudj @ flickr)][vim_credit]
+- [Outside Vim (claytron @ flickr)][outside_credit]
+- [fin (philon @ flickr)][finish_credit]
+
+Made possible by Creative Commons ![][cc]
+
+[//]: # ( ---- )
+[//]: # ( Links to items mentioned in the presentation )
+[//]: # ( ---- )
+[fzf]: https://github.com/junegunn/fzf
+[fzf.vim]: https://github.com/junegunn/fzf.vim
+[mru_vim]: https://gist.github.com/claytron/6d3fd25104729f04cbc8
+[fzf_config]: https://gist.github.com/claytron/d057345985ef29bd40d6
+[dotfiles]: https://github.com/claytron/dotfiles
+
+[//]: # ( ---- )
+[//]: # ( Links to images and their creditors )
+[//]: # ( ---- )
+[fail]: https://c2.staticflickr.com/6/5755/23073669710_3cd3970c54_b.jpg
+[fail_credit]: https://flic.kr/p/B9WA8y
+[future]: https://c1.staticflickr.com/3/2835/11425762834_a566aca52c_h.jpg
+[future_credit]: https://flic.kr/p/ipE2dW
+[vim]: https://c1.staticflickr.com/1/36/82932373_71e7e8a628_o.jpg
+[vim_credit]: https://flic.kr/p/8k3Uv
+[outside]: https://c2.staticflickr.com/2/1333/4599977246_63b6d7d5ac_o.jpg
+[outside_credit]: https://flic.kr/p/81u5Yw
+[finish]: https://c1.staticflickr.com/3/2267/2477878611_c7943ef03f_o.jpg
+[finish_credit]: https://flic.kr/p/4LXLZ2
+[cc]: http://mirrors.creativecommons.org/presskit/icons/cc.large.png
