@@ -131,6 +131,20 @@ Quick fuzzy access
 
 ----
 
+Switch __*Color Schemes*__ in Vim
+
+![inline autoplay fit](movies/vim_colors.mov)
+
+![][vim]
+
+^ Not just files
+Open Colors
+Find 'ze'. Select Zenburn
+Find 'mo'. Select molokai
+Find 'toni'. Select tomorrow night
+
+----
+
 # Outside Vim
 
 ![][outside]
