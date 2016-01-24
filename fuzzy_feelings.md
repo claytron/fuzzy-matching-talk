@@ -94,6 +94,8 @@ Find __*Files*__ in Vim
 
 ![inline autoplay fit](movies/vim_files.mov)
 
+![][vim]
+
 ^ 'README' Open it.
 'fo' finds 'fortune.rb'
 'fo.rb' finds 'info.rb'
@@ -107,6 +109,8 @@ Find __*Buffers*__ in Vim
 
 ![inline autoplay fit](movies/vim_buffers.mov)
 
+![][vim]
+
 ^ Now we have open buffers
 Details + fuzzy match
 Filter by 'md'
@@ -117,6 +121,8 @@ Open that file
 Find __*Recent Files*__ in Vim
 
 ![inline autoplay fit](movies/vim_mru.mov)
+
+![][vim]
 
 ^ Files from previous sessions
 Quick fuzzy access
@@ -133,6 +139,8 @@ Find __*Files*__
 
 ![inline autoplay fit](movies/shell_files.mov)
 
+![][outside]
+
 ^ Use 'sed -n'
 Use 'wc -l'
 with ctrl-t
@@ -144,6 +152,8 @@ Inspect __*Environment*__
 
 ![inline autoplay fit](movies/shell_env.mov)
 
+![][outside]
+
 ^ Use ctrl+r
 Find the env command
 Search for FZF
@@ -153,6 +163,8 @@ Search for FZF
 Git Stash __*Helper*__
 
 ![inline autoplay fit](movies/shell_stache.mov)
+
+![][outside]
 
 ^ Default git stash list
 Show different stashes
