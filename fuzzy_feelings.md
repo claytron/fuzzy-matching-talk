@@ -145,7 +145,6 @@ Find __*Files*__
 Use 'wc -l'
 with ctrl-t
 
-
 ----
 
 Inspect __*Environment*__
@@ -174,7 +173,7 @@ Apply one
 
 ### [fit] junegunn on GitHub
 
-![](https://avatars0.githubusercontent.com/u/700826)
+![][junegunn]
 
 ^ Prolific and clean code
 
@@ -214,7 +213,7 @@ Made possible by Creative Commons ![][cc]
 
 ![left][images]
 
-[//]: # ( ---- )
+[//]: # ( ------------------------------------------------------------ )
 [//]: # ( Links to items mentioned in the presentation )
 [//]: # ( ---- )
 [fzf]: https://github.com/junegunn/fzf
@@ -234,6 +233,7 @@ Made possible by Creative Commons ![][cc]
 [vim_credit]: https://flic.kr/p/8k3Uv
 [outside]: https://c2.staticflickr.com/2/1333/4599977246_63b6d7d5ac_o.jpg
 [outside_credit]: https://flic.kr/p/81u5Yw
+[junegunn]: https://avatars0.githubusercontent.com/u/700826
 [finish]: https://c1.staticflickr.com/3/2267/2477878611_c7943ef03f_o.jpg
 [finish_credit]: https://flic.kr/p/4LXLZ2
 [links]: https://c1.staticflickr.com/3/2847/9769053784_d13b1715a8_h.jpg
@@ -241,3 +241,4 @@ Made possible by Creative Commons ![][cc]
 [images]: https://c1.staticflickr.com/1/3/4886562_032e05c51a_o.jpg
 [images_credit]: https://flic.kr/p/r3B5
 [cc]: http://mirrors.creativecommons.org/presskit/icons/cc.large.png
+[//]: # ( ------------------------------------------------------------ )
