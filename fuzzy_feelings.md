@@ -11,13 +11,24 @@ autoscale: true
 
 # [fit] You __*Love*__ It Already.
 
-![inline](images/textmate.png)
+![inline](images/spotlight.png)
+
+^ Spotlight...
 
 -------------------------------------------------------------------------------
 
 # [fit] You __*Love*__ It Already.
 
 ![inline](images/qs.png)
+
+^ QuickSilver
+...or other launchers
+
+-------------------------------------------------------------------------------
+
+# [fit] You __*Love*__ It Already.
+
+![inline](images/textmate.png)
 
 -------------------------------------------------------------------------------
 
