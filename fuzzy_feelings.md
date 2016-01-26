@@ -7,31 +7,30 @@ autoscale: true
 
 ### [@claytron][] | _VimIndy_ | 02.2015
 
-----
+-------------------------------------------------------------------------------
 
 # [fit] You __*Love*__ It Already.
 
 ![inline](images/textmate.png)
 
-----
+-------------------------------------------------------------------------------
 
 # [fit] You __*Love*__ It Already.
 
 ![inline](images/qs.png)
 
-----
+-------------------------------------------------------------------------------
 
 # [fit] You __*Love*__ It Already.
 
 ![inline](images/sublime.png)
 
-----
+-------------------------------------------------------------------------------
 
 # [fit] In __*Vim*__, You Tried...
 - __Fuzzy Finder__
 - __Command-T__
 - __CtrlP__
-
 
 ![][fail]
 
@@ -45,17 +44,17 @@ autoscale: true
 ^ CtrlP inspired by Sublime Text.
   Pure vim. Pure slow.
 
-----
+-------------------------------------------------------------------------------
 
 # [fit] Now What?
 
 ![][future]
 
-----
+-------------------------------------------------------------------------------
 
 # [fit] [FZF!][fzf]
 
-----
+-------------------------------------------------------------------------------
 
 # Install is easy[^1]
 
@@ -66,7 +65,7 @@ $ ~/.fzf/install
 
 [^1]: As long as you are on a supported platform. Otherwise, you need to create a binary.
 
-----
+-------------------------------------------------------------------------------
 
 # My Settings
 
@@ -82,7 +81,7 @@ export FZF_DEFAULT_OPTS='--extended --multi --inline-info --prompt="fzf> "'
 ^ I've been using it for a while.
   Customized it to my needs.
 
-----
+-------------------------------------------------------------------------------
 
 # Use Cases
 
@@ -90,7 +89,7 @@ export FZF_DEFAULT_OPTS='--extended --multi --inline-info --prompt="fzf> "'
 
 ^ Let's look at how it can be used in Vim.
 
-----
+-------------------------------------------------------------------------------
 
 Find __*Files*__ in Vim
 
@@ -105,7 +104,7 @@ Exclude with '!^.bu'
 Open multiple files
 Or statements
 
-----
+-------------------------------------------------------------------------------
 
 Find __*Buffers*__ in Vim
 
@@ -118,7 +117,7 @@ Details + fuzzy match
 Filter by 'md'
 Open that file
 
-----
+-------------------------------------------------------------------------------
 
 Find __*Recent Files*__ in Vim
 
@@ -129,7 +128,7 @@ Find __*Recent Files*__ in Vim
 ^ Files from previous sessions
 Quick fuzzy access
 
-----
+-------------------------------------------------------------------------------
 
 Switch __*Color Schemes*__ in Vim
 
@@ -143,13 +142,13 @@ Find 'ze'. Select Zenburn
 Find 'mo'. Select molokai
 Find 'toni'. Select tomorrow night
 
-----
+-------------------------------------------------------------------------------
 
 # Outside Vim
 
 ![][outside]
 
-----
+-------------------------------------------------------------------------------
 
 Find __*Files*__
 
@@ -160,7 +159,7 @@ Find __*Files*__
 ^ Use 'sed -n' with ctrl-t
 Use 'wc -l' with 'lib' path and '`**`'
 
-----
+-------------------------------------------------------------------------------
 
 Inspect __*Environment*__
 
@@ -172,7 +171,7 @@ Inspect __*Environment*__
 Find the env command
 Search for FZF
 
-----
+-------------------------------------------------------------------------------
 
 __*Git Stash*__ Helper
 
@@ -184,7 +183,7 @@ __*Git Stash*__ Helper
 Show different stashes
 Apply one
 
-----
+-------------------------------------------------------------------------------
 
 ### [fit] junegunn on GitHub
 
@@ -194,13 +193,13 @@ Apply one
 
 ^ You will see this face pop up on the slack channel for sure :)
 
-----
+-------------------------------------------------------------------------------
 
 # [fit] FIN
 
 ![][finish]
 
-----
+-------------------------------------------------------------------------------
 
 ### Links
 
@@ -213,7 +212,7 @@ Apply one
 
 ![right filtered][links]
 
-----
+-------------------------------------------------------------------------------
 
 ### Image Credits
 
@@ -229,7 +228,7 @@ Made possible by [Creative Commons ![][cc_logo]][cc]
 
 ![left filtered][images]
 
-[//]: # ( ------------------------------------------------------------ )
+[//]: # ( ------------------------------------------------------------------- )
 [//]: # ( Links to items mentioned in the presentation )
 [//]: # ( ---- )
 [fzf]: https://github.com/junegunn/fzf
@@ -260,4 +259,4 @@ Made possible by [Creative Commons ![][cc_logo]][cc]
 [images_credit]: https://flic.kr/p/r3B5
 [cc_logo]: http://mirrors.creativecommons.org/presskit/icons/cc.large.png
 [cc]: https://creativecommons.org
-[//]: # ( ------------------------------------------------------------ )
+[//]: # ( ------------------------------------------------------------------- )
