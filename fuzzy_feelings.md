@@ -34,15 +34,14 @@ autoscale: true
 
 ![][fail]
 
-^ Fuzzy Finder was cool,
-  complex.
-  and slow with many files...
+^ Fuzzy Finder was cool, complex.
+and slow with many files...
 
 ^ Command-T required ruby and a make file or something.
-  Inspired by TextMate.
+Inspired by TextMate.
 
 ^ CtrlP inspired by Sublime Text.
-  Pure vim. Pure slow.
+Pure vim. Pure slow.
 
 -------------------------------------------------------------------------------
 
