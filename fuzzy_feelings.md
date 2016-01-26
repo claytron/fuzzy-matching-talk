@@ -30,11 +30,25 @@ autoscale: true
 
 ![inline](images/textmate.png)
 
+^ You've used it in your favorite editor
+...TextMate at some point perhaps?
+
 -------------------------------------------------------------------------------
 
 # [fit] You __*Love*__ It Already.
 
 ![inline](images/sublime.png)
+
+^ Sublime
+
+-------------------------------------------------------------------------------
+
+# [fit] You __*Love*__ It Already.
+
+![inline](images/atom.png)
+
+^ ...and Atom too
+Jealous of the speed.
 
 -------------------------------------------------------------------------------
 
