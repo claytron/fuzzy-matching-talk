@@ -121,7 +121,7 @@ Find __*Files*__ in Vim
 
 ![][vim]
 
-^ :star: [Watch the Video][fzf_vim_files] :star:
+^ __*[Watch the Video][fzf_vim_files]*__ :clapper:
 
 ^ 'README' Open it.
 'fo' finds 'fortune.rb'
@@ -138,7 +138,7 @@ Find __*Buffers*__ in Vim
 
 ![][vim]
 
-^ :star: [Watch the Video][fzf_vim_buffers] :star:
+^ __*[Watch the Video][fzf_vim_buffers]*__ :clapper:
 
 ^ Now we have open buffers
 Details + fuzzy match
@@ -153,7 +153,7 @@ Find __*Recent Files*__ in Vim
 
 ![][vim]
 
-^ :star: [Watch the Video][fzf_vim_mru] :star:
+^ __*[Watch the Video][fzf_vim_mru]*__ :clapper:
 
 ^ Files from previous sessions
 Quick fuzzy access
@@ -166,7 +166,7 @@ Switch __*Color Schemes*__ in Vim
 
 ![][vim]
 
-^ :star: [Watch the Video][fzf_vim_colors] :star:
+^ __*[Watch the Video][fzf_vim_colors]*__ :clapper:
 
 ^ Not just files
 Open Colors
@@ -188,7 +188,7 @@ Find __*Files*__
 
 ![][outside]
 
-^ :star: [Watch the Video][fzf_shell_files] :star:
+^ __*[Watch the Video][fzf_shell_files]*__ :clapper:
 
 ^ Use 'sed -n' with ctrl-t
 Use 'wc -l' with 'lib' path and '`**`'
@@ -201,7 +201,7 @@ Inspect __*Environment*__
 
 ![][outside]
 
-^ :star: [Watch the Video][fzf_shell_env] :star:
+^ __*[Watch the Video][fzf_shell_env]*__ :clapper:
 
 ^ Use ctrl+r
 Find the env command
@@ -209,13 +209,13 @@ Search for FZF
 
 -------------------------------------------------------------------------------
 
-__*Git Stash*__ Helper
+^ __*Git Stash*__ Helper
 
 ![inline autoplay fit](movies/shell_stache.mov)
 
 ![][outside]
 
-^ :star: [Watch the Video][fzf_shell_stache] :star:
+^ __*[Watch the Video][fzf_shell_stache]*__ :clapper:
 
 ^ Default git stash list
 Show different stashes
