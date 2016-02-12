@@ -241,12 +241,12 @@ Apply one
 
 ### Links
 
-- [FZF][fzf]
-- [fzf.vim][fzf.vim]
-- [Custom MRU Setup in Vim][mru_vim]
-- [My FZF Config][fzf_config]
-- [My .dotfiles][dotfiles]
-- [VimIndy][]
+1. [FZF][fzf]
+1. [fzf.vim][fzf.vim]
+1. [Custom MRU Setup in Vim][mru_vim]
+1. [My FZF Config][fzf_config]
+1. [My .dotfiles][dotfiles]
+1. [VimIndy][]
 
 ![right filtered][links]
 
@@ -254,13 +254,14 @@ Apply one
 
 ### Image Credits
 
-- [In Vim, You Tried (blondinrikard @ flickr)][fail_credit]
-- [Now What? (llnataliell @ flickr)][future_credit]
-- [Use Cases (fudj @ flickr)][vim_credit]
-- [Outside Vim (claytron @ flickr)][outside_credit]
-- [fin (philon @ flickr)][finish_credit]
-- [Links (volvob12b @ flickr)][links_credit]
-- [Image Credits (drp @ flickr)][images_credit]
+1. [In Vim, You Tried (blondinrikard @ flickr)][fail_credit]
+1. [Now What? (llnataliell @ flickr)][future_credit]
+1. [Use Cases (fudj @ flickr)][vim_credit]
+1. [Outside Vim (claytron @ flickr)][outside_credit]
+1. [fin (philon @ flickr)][finish_credit]
+1. [Links (volvob12b @ flickr)][links_credit]
+
+[:arrow_left: This Image (drp @ flickr)][images_credit]
 
 Made possible by [Creative Commons ![][cc_logo]][cc]
 
