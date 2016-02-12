@@ -121,6 +121,8 @@ Find __*Files*__ in Vim
 
 ![][vim]
 
+^ :star: [Watch the Video][fzf_vim_files] :star:
+
 ^ 'README' Open it.
 'fo' finds 'fortune.rb'
 'fo.rb' finds 'info.rb'
@@ -136,6 +138,8 @@ Find __*Buffers*__ in Vim
 
 ![][vim]
 
+^ :star: [Watch the Video][fzf_vim_buffers] :star:
+
 ^ Now we have open buffers
 Details + fuzzy match
 Filter by 'md'
@@ -149,6 +153,8 @@ Find __*Recent Files*__ in Vim
 
 ![][vim]
 
+^ :star: [Watch the Video][fzf_vim_mru] :star:
+
 ^ Files from previous sessions
 Quick fuzzy access
 
@@ -159,6 +165,8 @@ Switch __*Color Schemes*__ in Vim
 ![inline autoplay fit](movies/vim_colors.mov)
 
 ![][vim]
+
+^ :star: [Watch the Video][fzf_vim_colors] :star:
 
 ^ Not just files
 Open Colors
@@ -180,6 +188,8 @@ Find __*Files*__
 
 ![][outside]
 
+^ :star: [Watch the Video][fzf_shell_files] :star:
+
 ^ Use 'sed -n' with ctrl-t
 Use 'wc -l' with 'lib' path and '`**`'
 
@@ -190,6 +200,8 @@ Inspect __*Environment*__
 ![inline autoplay fit](movies/shell_env.mov)
 
 ![][outside]
+
+^ :star: [Watch the Video][fzf_shell_env] :star:
 
 ^ Use ctrl+r
 Find the env command
@@ -202,6 +214,8 @@ __*Git Stash*__ Helper
 ![inline autoplay fit](movies/shell_stache.mov)
 
 ![][outside]
+
+^ :star: [Watch the Video][fzf_shell_stache] :star:
 
 ^ Default git stash list
 Show different stashes
@@ -262,6 +276,17 @@ Made possible by [Creative Commons ![][cc_logo]][cc]
 [dotfiles]: https://github.com/claytron/dotfiles
 [@claytron]: https://twitter.com/claytron
 [vimindy]: http://www.meetup.com/vimindy/
+
+[//]: # ( ---- )
+[//]: # ( External video links )
+[//]: # ( ---- )
+[fzf_vim_files]: https://youtu.be/u8hFhBd--Bs
+[fzf_vim_buffers]: https://youtu.be/2YlrPAYAZUg
+[fzf_vim_mru]: https://youtu.be/IUybPb83l94
+[fzf_vim_colors]: https://youtu.be/IT6T7bAMu2k
+[fzf_shell_files]: https://youtu.be/ZxvV18osBRs
+[fzf_shell_env]: https://youtu.be/U1baE0SIrks
+[fzf_shell_stache]: https://youtu.be/RdAEkJCtFcU
 
 [//]: # ( ---- )
 [//]: # ( Links to images and their creditors )
